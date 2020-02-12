@@ -1,0 +1,33 @@
+body
+{
+  color: lightgrey;
+  background-color: #104547;
+  font-family: tahoma;
+  border: 6px double grey;
+  padding-left: 20px;
+   padding-right: 20px;
+    padding-bottom: 20px;
+     margin: 100px;
+      margin-top: 50px;
+}
+
+figure, h1
+{
+	text-align: center;
+}
+
+h2
+{
+	font-family: jim nightshade;
+}
+
+figcaption
+{
+	font-style: italic;
+}
+
+footer
+{
+	text-align: center;
+	color: crimson;
+}
