@@ -1,25 +1,26 @@
 body
 {
-  color: lightgrey;
-  background-color: #104547;
-  font-family: tahoma;
-  border: 6px double grey;
-  padding-left: 20px;
-   padding-right: 20px;
-    padding-bottom: 20px;
-     margin: 100px;
-      margin-top: 50px;
+	color: #708090;
+	background-color: #66CDAA;
+	font-family: Tahoma, sans-serif;
+	border: 8px solid FloralWhite;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 100px; 
 }
 
-figure, h1
+header
+{
+	font-family: Optima;
+	text-align: center;	
+}	
+
+figure
 {
 	text-align: center;
-}
-
-h2
-{
-	font-family: jim nightshade;
-}
+}	
 
 figcaption
 {
@@ -29,5 +30,14 @@ figcaption
 footer
 {
 	text-align: center;
-	color: crimson;
+}
+
+a 
+{ 
+	color: #B8860B;
+}
+
+a:hover
+{
+	color: #FF00FF;
 }
