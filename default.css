@@ -1,0 +1,43 @@
+body
+{
+	color: #708090;
+	background-color: #66CDAA;
+	font-family: Tahoma, sans-serif;
+	border: 8px solid FloralWhite;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	margin-right: 100px;
+	margin-left: 100px; 
+}
+
+header
+{
+	font-family: Optima;
+	text-align: center;	
+}	
+
+figure
+{
+	text-align: center;
+}	
+
+figcaption
+{
+	font-style: italic;
+}
+
+footer
+{
+	text-align: center;
+}
+
+a 
+{ 
+	color: #B8860B;
+}
+
+a:hover
+{
+	color: #FF00FF;
+}
